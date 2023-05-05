@@ -8,6 +8,7 @@
 
 # Node
 /node_modules
+/package-lcok.json
 npm-debug.log
 yarn-error.log
 
@@ -21,7 +22,7 @@ yarn-error.log
 *.sublime-workspace
 
 # Visual Studio Code
-.vscode/
+/.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
